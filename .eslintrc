@@ -4,5 +4,8 @@
   ],
   "env": {
     "jest": true
+  },
+  "rules": {
+    "space-before-function-paren": 0
   }
 }
